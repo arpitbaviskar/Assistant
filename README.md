@@ -24,10 +24,10 @@ My Assistant is a Python desktop application that listens to your voice, interpr
 ## ⚙️ Installation
 
 1. **Clone this repository**
-git clone https://github.com/your-username/my-assistant.git
+git clone https://github.com/arpitbaviskar/Assistant.git
 cd my-assistant
 
-text
+
 
 2. **Install dependencies**
 pip install tkinter
@@ -36,12 +36,12 @@ pip install requests
 pip install beautifulsoup4
 pip install pyaudio # required for microphone input
 
-text
+
 
 3. **Run the app**
-python my_assistant.py
+python main.py
 
-text
+
 
 ---
 
